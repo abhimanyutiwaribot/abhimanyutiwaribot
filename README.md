@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself.<br>🌱 I’m currently learning. <br>⚡ I'm learner
+🔭 I’m currently working on myself.<br>🌱 Learning AI. <br>⚡ I'm still a learner
 
 
 ## 🌐 Socials:
