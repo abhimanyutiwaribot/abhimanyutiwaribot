@@ -1,5 +1,5 @@
 <a href="https://abhimanyutiwaribot.vercel.app">
-  <img src="https://raw.githubusercontent.com/abhimanyutiwaribot/abhimanyutiwaribot/refs/heads/master/image.jpg" width="90%" />
+  <img src="https://raw.githubusercontent.com/abhimanyutiwaribot/abhimanyutiwaribot/refs/heads/master/image.jpg" width="100%" />
 </a>
 <br/> 
 <br/> 
